@@ -10,4 +10,4 @@ The difference in performance can sometimes be many orders of magnitude.
 
 2. Compare the performance of the DNN regressor to other models. 
 
-3. Figure out what else I need to add. 
+3. Create permanent train/validation/test sets as csv's. 
